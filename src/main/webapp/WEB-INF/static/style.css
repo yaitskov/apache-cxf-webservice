@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    color: green
+}
+
+
+ul.main-menu {
+    list-style-type: none;
+    height: 52px;
+    width: 663px;
+    margin: auto;
+    margin: 0;
+    padding: 0;
+}
+
+ul.main-menu li {
+    float: left;
+}
+
+ul.main-menu a {
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-right: 32px;
+    padding-left: 32px;
+    display: block;
+    line-height: 47px;
+    text-decoration: none;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 21px;
+    color: #8C8C8C;
+}
+
+ul.main-menu li.current a {
+    color: #FFF;
+}
+
+ul.main-menu a:hover {
+    color: yellow;
+}
