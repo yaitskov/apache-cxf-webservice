@@ -1,0 +1,9 @@
+This web application use webservice to call self method.
+
+
+To override service address
+create tomcat_home/conf/cxf-sum.properties
+
+with content
+
+cxf.summator_service_addr=http://localhost:8184/<context>/services/Summator
