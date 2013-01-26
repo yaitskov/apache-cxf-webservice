@@ -1,4 +1,4 @@
-package net.sf.dan.jsp;
+package net.sf.dan.cxf;
 
 /**
  * Daneel Yaitskov

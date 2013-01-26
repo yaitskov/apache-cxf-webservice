@@ -12,7 +12,7 @@
     </appender>
 
     <logger name="net.sf.dan">
-        <level value="info"/>
+        <level value="debug"/>
     </logger>
 
     <root>

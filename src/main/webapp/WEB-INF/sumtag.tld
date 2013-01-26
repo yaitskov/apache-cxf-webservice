@@ -9,7 +9,7 @@
     <uri>http://utils</uri>
     <tag>
         <name>Sum</name>
-        <tag-class>net.sf.dan.jsp.MyCustomTag</tag-class>
+        <tag-class>net.sf.dan.cxf.MyCustomTag</tag-class>
         <body-content>empty</body-content>
         <attribute>
             <name>a</name>

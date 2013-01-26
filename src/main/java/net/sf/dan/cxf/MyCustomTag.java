@@ -1,4 +1,4 @@
-package net.sf.dan.jsp;
+package net.sf.dan.cxf;
 
 import javax.servlet.jsp.JspException;
 import javax.servlet.jsp.JspWriter;
